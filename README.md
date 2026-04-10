@@ -56,3 +56,4 @@ The primary objective of this project was to perform a comprehensive audit of ma
 **[Neeraj Singh]**
 *Data Analyst | SQL | Power BI | Python*
 [[LinkedIn Profile Link](https://www.linkedin.com/in/neerajsinghdatanerd/)]
+[[Power BI Report Link](https://app.powerbi.com/view?r=eyJrIjoiM2Y1MmYwOTYtYTZjYi00NzRlLWI2Y2EtMDgwMDkxZmQ4NjhjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)]
