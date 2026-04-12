@@ -10,6 +10,10 @@ This project was initiated to audit the marketing effectiveness, identify funnel
 The primary objective of this project was to perform a comprehensive audit of marketing campaigns and the sales funnel. Analysis revealed that while **Q4 (Nov-Dec)** experienced stable growth driven by successful search campaigns, significant conversion leakages exist within **Social Media channels** and the **Mobile User Experience (UX)**. By rectifying these inefficiencies and scaling high-performing search campaigns (`g_ad_1`), the business can potentially increase revenue by **15-20%**.
 
 ---
+## 📊 Dashboard Preview
+
+![Campaign Dashboard](images/1.png)
+---
 
 ## 🔍 Key Insights Buckets
 
