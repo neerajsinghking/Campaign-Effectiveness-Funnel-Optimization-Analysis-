@@ -1,5 +1,5 @@
 # Campaign Effectiveness & Funnel Optimization Analysis 📈
-**Domain:** E-commerce (Toy Retailer) | **Tools:** SQL (MS SQL Server), Power BI, Excel
+**Domain:** E-commerce (Toy Retailer) | **Tools:** SQL (MS SQL Server), Power BI, Python
 
 ## 📋 Business Scenario
 The company observed a significant increase in marketing spend during the year-end peak season, but the overall profitability didn't scale proportionally. There was a lack of clarity on which marketing channels were driving high-quality traffic versus those wasting the budget. Additionally, the management noticed a high abandonment rate in the checkout process but couldn't pinpoint whether the issue was technical, device-specific, or related to the user journey. 
@@ -39,21 +39,14 @@ The primary objective of this project was to perform a comprehensive audit of ma
 ---
 
 ## 🛠️ Tech Stack & Methodology
-* **SQL:** Utilized complex CTEs, Window Functions, and Joins for traffic sourcing and funnel drop-off calculations.
+* **SQL:** Utilized complex CTEs, and Joins for traffic sourcing and funnel drop-off calculations.
 * **Power BI:** Developed interactive dashboards comparing Mobile vs. Desktop performance and seasonal trends.
 * **Root Cause Analysis (RCA):** Conducted deep-dive analysis to identify specific leakage points in the user journey.
-
----
-
-## 📂 Project Structure
-* `SQL_Queries/`: Scripts for Traffic, Funnel, and A/B Testing analysis.
-* `Dashboards/`: Power BI `.pbix` files and visualization screenshots.
-* `Documentation/`: Detailed breakdown of methodology and business logic.
 
 ---
 
 ### ✍️ Author
 **[Neeraj Singh]**
 *Data Analyst | SQL | Power BI | Python*
-[[LinkedIn Profile Link](https://www.linkedin.com/in/neerajsinghdatanerd/)]
-[[Power BI Report Link](https://app.powerbi.com/view?r=eyJrIjoiM2Y1MmYwOTYtYTZjYi00NzRlLWI2Y2EtMDgwMDkxZmQ4NjhjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)]
+<a href="https://www.linkedin.com/in/neerajsinghdatanerd/" target="_blank">LinkedIn Profile Link</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiM2Y1MmYwOTYtYTZjYi00NzRlLWI2Y2EtMDgwMDkxZmQ4NjhjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">Power BI Report Link</a>
