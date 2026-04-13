@@ -1,15 +1,15 @@
 # Campaign Effectiveness & Funnel Optimization Analysis 📈
 **Domain:** E-commerce (Toy Retailer) | **Tools:** SQL (MS SQL Server), Power BI, Python
 
+## 🎯 Executive Summary
+The primary objective of this project was to perform a comprehensive audit of marketing campaigns and the sales funnel. Analysis revealed that while **Q4 (Nov-Dec)** experienced stable growth driven by successful search campaigns, significant conversion leakages exist within **Social Media channels** and the **Mobile User Experience (UX)**. By rectifying these inefficiencies and scaling high-performing search campaigns (`g_ad_1`), the business can potentially increase revenue by **15-20%** organic revenue uplift (approx. $300k - $380k).
+
+---
+
 ## 📋 Business Scenario
 The company observed a significant increase in marketing spend during the year-end peak season, but the overall profitability didn't scale proportionally. There was a lack of clarity on which marketing channels were driving high-quality traffic versus those wasting the budget. Additionally, the management noticed a high abandonment rate in the checkout process but couldn't pinpoint whether the issue was technical, device-specific, or related to the user journey. 
 
 This project was initiated to audit the marketing effectiveness, identify funnel bottlenecks, and provide data-driven recommendations to optimize the ROI for the upcoming fiscal year.
-
----
-
-## 🎯 Executive Summary
-The primary objective of this project was to perform a comprehensive audit of marketing campaigns and the sales funnel. Analysis revealed that while **Q4 (Nov-Dec)** experienced stable growth driven by successful search campaigns, significant conversion leakages exist within **Social Media channels** and the **Mobile User Experience (UX)**. By rectifying these inefficiencies and scaling high-performing search campaigns (`g_ad_1`), the business can potentially increase revenue by **15-20%** organic revenue uplift (approx. $300k - $380k).
 
 ## 📊 Dashboard Preview
 
